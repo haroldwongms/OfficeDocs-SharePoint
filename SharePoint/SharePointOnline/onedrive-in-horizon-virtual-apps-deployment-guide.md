@@ -74,7 +74,7 @@ Configuring FSLogix in combination with Dynamic Environment Manager will help wi
 
 Please refer to the following article to configure FSLogix Office Container (ODFC) on all Horizon Virtual App farm servers.
 
-[Configure FSLogix](/../../fslogix/tutorial-configure-odfc-containers?source=recommendations)
+[Configure FSLogix](/../../fslogix/tutorial-configure-odfc-containers)
 
 Please install the OneDrive sync client with **/allusers** switch on all the Horizon Virtual App farm hosts as machine installer. 
 
